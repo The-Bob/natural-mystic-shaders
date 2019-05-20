@@ -1,4 +1,5 @@
-# Natural Mystic Shaders
+# NOT FUNTCTIONAL  I HAVE DONE NO WORK ON THIS YET
+# Windows 10 port of deppressed-pho's Natural Mystic Shaders
 
 **Natural Mystic Shaders** is a shader pack for Minecraft Bedrock
 aiming to be as realistic as possible.
